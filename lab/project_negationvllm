@@ -1,0 +1,6 @@
+# techniques
+## dataset construction
+- transfer question to negation questions
+    - introduce how to and why choose these methods to transfer into negation questions
+    - split direct 40, soft 30, double 30
+- datasets > needs to be powerful(from conferences)
